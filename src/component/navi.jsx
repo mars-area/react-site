@@ -15,6 +15,9 @@ class Navi extends React.Component {
                             <li className="home">
                                 <a href="#/home">Home</a>
                             </li>
+                            <li className="project">
+                                <a href="#/project">Project</a>
+                            </li>
                             <li className="about">
                                 <a href="#/about">About</a>
                             </li>
