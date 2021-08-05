@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-app/static/css/main.c2933a8a.chunk.css",
-    "main.js": "/react-app/static/js/main.013c041b.chunk.js",
-    "main.js.map": "/react-app/static/js/main.013c041b.chunk.js.map",
-    "runtime-main.js": "/react-app/static/js/runtime-main.2583bbfe.js",
-    "runtime-main.js.map": "/react-app/static/js/runtime-main.2583bbfe.js.map",
-    "static/js/2.d3d1842f.chunk.js": "/react-app/static/js/2.d3d1842f.chunk.js",
-    "static/js/2.d3d1842f.chunk.js.map": "/react-app/static/js/2.d3d1842f.chunk.js.map",
-    "static/js/3.32e68db2.chunk.js": "/react-app/static/js/3.32e68db2.chunk.js",
-    "static/js/3.32e68db2.chunk.js.map": "/react-app/static/js/3.32e68db2.chunk.js.map",
-    "index.html": "/react-app/index.html",
-    "static/css/main.c2933a8a.chunk.css.map": "/react-app/static/css/main.c2933a8a.chunk.css.map",
-    "static/js/2.d3d1842f.chunk.js.LICENSE.txt": "/react-app/static/js/2.d3d1842f.chunk.js.LICENSE.txt",
-    "static/media/earth.css": "/react-app/static/media/earth.82d2ef9b.jpg"
+    "main.css": "/react-site/static/css/main.0b4d9723.chunk.css",
+    "main.js": "/react-site/static/js/main.013c041b.chunk.js",
+    "main.js.map": "/react-site/static/js/main.013c041b.chunk.js.map",
+    "runtime-main.js": "/react-site/static/js/runtime-main.3cb4ad25.js",
+    "runtime-main.js.map": "/react-site/static/js/runtime-main.3cb4ad25.js.map",
+    "static/js/2.d3d1842f.chunk.js": "/react-site/static/js/2.d3d1842f.chunk.js",
+    "static/js/2.d3d1842f.chunk.js.map": "/react-site/static/js/2.d3d1842f.chunk.js.map",
+    "static/js/3.32e68db2.chunk.js": "/react-site/static/js/3.32e68db2.chunk.js",
+    "static/js/3.32e68db2.chunk.js.map": "/react-site/static/js/3.32e68db2.chunk.js.map",
+    "index.html": "/react-site/index.html",
+    "static/css/main.0b4d9723.chunk.css.map": "/react-site/static/css/main.0b4d9723.chunk.css.map",
+    "static/js/2.d3d1842f.chunk.js.LICENSE.txt": "/react-site/static/js/2.d3d1842f.chunk.js.LICENSE.txt",
+    "static/media/earth.css": "/react-site/static/media/earth.82d2ef9b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2583bbfe.js",
+    "static/js/runtime-main.3cb4ad25.js",
     "static/js/2.d3d1842f.chunk.js",
-    "static/css/main.c2933a8a.chunk.css",
+    "static/css/main.0b4d9723.chunk.css",
     "static/js/main.013c041b.chunk.js"
   ]
 }
