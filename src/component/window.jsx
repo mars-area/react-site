@@ -20,13 +20,15 @@ class Window extends React.Component {
                             startDelay={2000}
                             cursorColor="#3F3D56"
                             multiText={[
-                            'Hey there, This is me. I do Design, and Develop Websites.',
-                            'Have something great in mind? Feel free to contact me. I will help you to make it happen.'
+                            `Hey there.., This is me. I do Design, and Develop Websites.
+                            Do you have or are in a business?`,
+                            `We live in 2021 right? :)
+                            Is your business have a website?`,
+                            `Have something great in mind? Feel free to contact me. I will help you to make it happen.`
                             ]}
-                            multiTextDelay={1000}
+                            multiTextDelay={2000}
                             typeSpeed={30}
                         />
-                        
                     </div>
                 </div>
         );
